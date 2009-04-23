@@ -1,3 +1,4 @@
 #summary Link to FreeArc download page
+#labels Featured
 
 [http://freearc.org/Download.aspx Download page]
